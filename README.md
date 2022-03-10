@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uday3697
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...python and  Django
+- 👀 I’m interested in ...web devlopment,chess,music composition,piano,nature
+- 🌱 I’m currently learning ...java,python and  Django,javascript,html,css,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...8210075160 or mail me udaysah0003@gmail.com
 
