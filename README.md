@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Uday3697
-- 👀 I’m interested in ...web devlopment,chess,music composition,piano,nature
-- 🌱 I’m currently learning ...java,python and  Django,javascript,html,css,
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Uday Kumar sah 
+- 👀 I’m interested in ...web devlopment,chess,music
+- 🌱 Programming language Skills  ...javascript,angular,nodejs,html,css,Java
+- KEY SKILLS
+   - 💞️   Webscripting
+              - Html, CSS, JavaScript, Bootstrap
+   - 💞️   Database
+              -SQL Server,PostgreSql, SQLite, MongoDb
+   - 💞️   IDE’s
+             -Notepad ++, Editplus,VScode, Pycharm ,IntelliJ IDEA
+
+   - 💞️   Operating System
+             -Windows , Linux,Mac
+
 - 📫 How to reach me ...8210075160 or mail me udaysah0003@gmail.com
 
-<!---
-Uday3697/Uday3697 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
