@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uday Kumar sah 
-- 👀 I’m interested in ...web devlopment,chess,music
-- 🌱 Programming language Skills  ...javascript,angular,nodejs,html,css,Java
+- 👀 I’m interested in ...web devlopment,chess,music,sound design
+- 🌱 Programming language Skills  ...javascript,nodejs,html,css,Java,python,django
 - KEY SKILLS
    - 💞️   Webscripting
               - Html, CSS, JavaScript, Bootstrap
