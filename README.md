@@ -11,8 +11,11 @@
 
    - 💞️   Operating System
              -Windows , Linux,Mac
+             
+    -💞️ Other Skills  
+             DAW,Midi-keybord,Synth,Sound Design,Mixing and Mastering Eng
 
 - 📫 How to reach me ...8210075160 or mail me udaysah0003@gmail.com
-💞️ Other Skills 
-Digital Audio Work Station,Midi-keybord,Synth,Sound Design,Mixing and Mastering Eng 
+ 
+
 
